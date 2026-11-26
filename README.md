@@ -2,7 +2,7 @@
 
 > 早餐店老闆的記憶力大考驗：用 Vibe Coding 做出的手機網頁小遊戲
 
-**🎮 立即遊玩：<https://你的帳號.github.io/你的repo名稱/>**
+**🎮 立即遊玩：<https://llh26.github.io/mini_game/>**
 
 <!-- 上傳後請把上面的網址換成你的 GitHub Pages 網址 -->
 
